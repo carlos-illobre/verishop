@@ -1,0 +1,23 @@
+{
+  "name": "verishop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.9.0",
+    "apollo-server-express": "^2.9.0",
+    "express": "^4.16.3",
+    "glob": "^7.1.2",
+    "graphql": "^14.5.3",
+    "graphql-tools": "^4.0.5",
+    "lodash": "^4.17.11",
+    "merge-graphql-schemas": "^1.7.0",
+    "mongojs": "^3.1.0",
+    "mongoose": "^5.0.12"
+  }
+}

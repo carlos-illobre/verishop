@@ -1,0 +1,9 @@
+type Mutation {
+  """
+  Creates a short url
+  """
+  createShortUrl(
+    "The long url"
+    url: String
+  ): String
+}
